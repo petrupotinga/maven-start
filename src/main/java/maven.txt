@@ -1,0 +1,18 @@
+
+*Maven este un instrument pentru gestionarea și construirea proiectelor.
+*Scopul principal al Maven este de a oferi dezvoltatorului:
+1.Un model clar pentru proiecte care pot fi refolosite și care ar fi ușor de întreținut.
+Plugin-uri care pot interacționa cu acest model.
+2.Structura și conținutul unui proiect Maven sunt specificate într-un fișier xml
+special numit Project Object Model (POM), care este modulul de bază al întregului sistem.
+
+POM (Project Object Model) este modulul de bază al Maven. Acesta este un fișier XML special care este întotdeauna
+stocat în directorul de bază al proiectului și se numește pom.xml .
+Fiecare proiect trebuie să aibă propriul fișier POM.
+Toate fișierele POM trebuie să aibă trei elemente necesare: groupId, artefactId, version .
+În depozit, proiectul arată astfel: groupId:artifactId:version.
+
+Maven are următoarele 3 cicluri de viață standard:
+1 clean
+2 default
+3 site
