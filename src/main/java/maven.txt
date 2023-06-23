@@ -1,5 +1,6 @@
 
 *Maven este un instrument pentru gestionarea și construirea proiectelor.
+Maven poate automatiza procesele asociate cu construirea, testarea, ambalarea proiectului etc.
 *Scopul principal al Maven este de a oferi dezvoltatorului:
 1.Un model clar pentru proiecte care pot fi refolosite și care ar fi ușor de întreținut.
 Plugin-uri care pot interacționa cu acest model.
@@ -16,3 +17,15 @@ Maven are următoarele 3 cicluri de viață standard:
 1 clean
 2 default
 3 site
+
+Există trei tipuri de depozite Maven:
+1 local (local)
+2 central (central)
+3 la distanta
+
+Tipuri de pluginuri
+1.Build plugins
+2 Report plugins
+
+Snapshot este o versiune specială care arată copia curentă de lucru. La fiecare build,
+Maven verifică dacă există o nouă versiune instantanee în depozitul de la distanță.
