@@ -1,0 +1,6 @@
+Git este un sistem de control al versiunilor, adesea utilizat pentru gestionarea proiectelor de dezvoltare de software.
+A fost creat de Linus Torvalds în 2005 și a devenit extrem de popular datorită flexibilității și performanței sale.
+Scopul principal al sistemelor de control al versiunilor, cum ar fi Git, este de a urmări și gestiona modificările
+efectuate asupra fișierelor și codului sursă al unui proiect în timp. Acest lucru permite dezvoltatorilor să lucreze
+în colaborare la același proiect, să revizuiască și să revină la versiuni anterioare ale codului și să gestioneze
+eficient schimbările.
