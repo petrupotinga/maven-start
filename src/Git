@@ -4,3 +4,26 @@ Scopul principal al sistemelor de control al versiunilor, cum ar fi Git, este de
 efectuate asupra fișierelor și codului sursă al unui proiect în timp. Acest lucru permite dezvoltatorilor să lucreze
 în colaborare la același proiect, să revizuiască și să revină la versiuni anterioare ale codului și să gestioneze
 eficient schimbările.
+Cele mai utilizate comenzi Git:
+git init: Inițializează un nou repository Git în directorul curent.
+
+git clone <URL>: Clonează un repository existent de pe GitHub sau de pe altă platformă similară.
+
+git add <file>: Adaugă un fișier la zona de stagiu (stage) pentru a fi pregătit pentru commit.
+
+git commit -m "<message>": Creează un commit, salvând modificările din zona de stagiu în repository și atașând un mesaj
+care descrie schimbările.
+
+git status: Afișează starea curentă a repository-ului, inclusiv fișierele modificate, adăugate sau șterse.
+
+git push: Încarcă schimbările locale în repository-ul remote.
+
+git pull: Aduce schimbările din repository-ul remote și le încorporează în branch-ul local curent.
+
+git branch: Afișează lista branch-urilor disponibile și indică branch-ul curent.
+
+git checkout <branch>: Schimbă branch-ul curent la un alt branch existent.
+
+git merge <branch>: Unește branch-ul curent cu un alt branch specificat, încorporând schimbările în branch-ul curent.
+
+git log: Afișează istoricul commit-urilor în repository, inclusiv mesajele, autorii și timestamp-urile.
