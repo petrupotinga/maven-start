@@ -27,3 +27,10 @@ git checkout <branch>: Schimbă branch-ul curent la un alt branch existent.
 git merge <branch>: Unește branch-ul curent cu un alt branch specificat, încorporând schimbările în branch-ul curent.
 
 git log: Afișează istoricul commit-urilor în repository, inclusiv mesajele, autorii și timestamp-urile.
+
+
+GitHub este o platformă de dezvoltare colaborativă a software-ului care permite programatorilor să lucreze împreună
+la proiecte și să-și gestioneze codul sursă.GitHub se bazează pe un sistem de control al versiunilor numit Git.
+
+GitHub facilitează colaborarea eficientă între dezvoltatori, gestionează versiunile codului sursă,oferă o platformă
+pentru dezvoltarea comunităților și promovează transparența și colaborarea în lumea dezvoltării software.
