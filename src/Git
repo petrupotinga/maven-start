@@ -4,6 +4,7 @@ Scopul principal al sistemelor de control al versiunilor, cum ar fi Git, este de
 efectuate asupra fișierelor și codului sursă al unui proiect în timp. Acest lucru permite dezvoltatorilor să lucreze
 în colaborare la același proiect, să revizuiască și să revină la versiuni anterioare ale codului și să gestioneze
 eficient schimbările.
+
 Cele mai utilizate comenzi Git:
 git init: Inițializează un nou repository Git în directorul curent.
 
@@ -34,3 +35,10 @@ la proiecte și să-și gestioneze codul sursă.GitHub se bazează pe un sistem 
 
 GitHub facilitează colaborarea eficientă între dezvoltatori, gestionează versiunile codului sursă,oferă o platformă
 pentru dezvoltarea comunităților și promovează transparența și colaborarea în lumea dezvoltării software.
+
+Un repository Git (sau repo Git) este un depozit digital în care se păstrează și se gestionează codul sursă al unui
+proiect de software.
+Un repository Git stochează întregul istoric al proiectului, inclusiv fiecare versiune a fișierelor, schimbările
+efectuate de fiecare dezvoltator și informații despre cum au fost integrate aceste modificări în proiect.
+Aceasta permite dezvoltatorilor să se întoarcă la orice moment din istoricul proiectului, să compare diferite
+versiuni ale fișierelor și să gestioneze eficient colaborarea în echipă.
