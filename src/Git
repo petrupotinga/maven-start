@@ -42,3 +42,6 @@ Un repository Git stochează întregul istoric al proiectului, inclusiv fiecare 
 efectuate de fiecare dezvoltator și informații despre cum au fost integrate aceste modificări în proiect.
 Aceasta permite dezvoltatorilor să se întoarcă la orice moment din istoricul proiectului, să compare diferite
 versiuni ale fișierelor și să gestioneze eficient colaborarea în echipă.
+Un repository Git poate fi găzduit local pe un sistem de calcul sau pe o rețea locală, sau poate fi găzduit într-un
+serviciu de găzduire de cod, cum ar fi GitHub, GitLab sau Bitbucket, pentru a permite dezvoltatorilor să colaboreze
+în mod eficient și să partajeze codul sursă cu restul echipei sau cu comunitatea de dezvoltatori.
