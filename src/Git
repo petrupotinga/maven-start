@@ -29,6 +29,9 @@ git merge <branch>: Unește branch-ul curent cu un alt branch specificat, încor
 
 git log: Afișează istoricul commit-urilor în repository, inclusiv mesajele, autorii și timestamp-urile.
 
+git remote add <name> <url>: este utilizată pentru a adăuga un nou remote repository la un proiect Git existent.
+
+git branch <branch>: este utilizată pentru a crea o nouă ramură (branch) într-un repository Git.
 
 GitHub este o platformă de dezvoltare colaborativă a software-ului care permite programatorilor să lucreze împreună
 la proiecte și să-și gestioneze codul sursă.GitHub se bazează pe un sistem de control al versiunilor numit Git.
@@ -42,6 +45,7 @@ Un repository Git stochează întregul istoric al proiectului, inclusiv fiecare 
 efectuate de fiecare dezvoltator și informații despre cum au fost integrate aceste modificări în proiect.
 Aceasta permite dezvoltatorilor să se întoarcă la orice moment din istoricul proiectului, să compare diferite
 versiuni ale fișierelor și să gestioneze eficient colaborarea în echipă.
+
 Un repository Git poate fi găzduit local pe un sistem de calcul sau pe o rețea locală, sau poate fi găzduit într-un
 serviciu de găzduire de cod, cum ar fi GitHub, GitLab sau Bitbucket, pentru a permite dezvoltatorilor să colaboreze
 în mod eficient și să partajeze codul sursă cu restul echipei sau cu comunitatea de dezvoltatori.
